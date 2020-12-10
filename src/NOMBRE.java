@@ -15,5 +15,7 @@ public class NOMBRE {
         String miguel2 = "El mas chupapinga";
         
         String g = "Giusseppe";
+        
+        String andy2 = "Ga rcsmr";
     }
 }
