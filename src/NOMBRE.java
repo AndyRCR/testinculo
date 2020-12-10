@@ -13,5 +13,7 @@ public class NOMBRE {
         System.out.println(miguel + andy);
         
         String miguel2 = "El mas chupapinga";
+        
+        String g = "Giusseppe";
     }
 }
